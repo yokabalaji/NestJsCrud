@@ -15,7 +15,7 @@ import { ProfileModule } from './profile/profile.module';
       host: '127.0.0.1',
       port: 3306,
       username: 'root',
-      password: null,
+      password: 'root',
       database: 'nestjs',
       entities: [User],
       synchronize: true,
