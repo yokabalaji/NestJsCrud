@@ -6,7 +6,11 @@
     "emitDecoratorMetadata": true,
     "experimentalDecorators": true,
     "allowSyntheticDefaultImports": true,
+<<<<<<< HEAD
     "target": "es2017",
+=======
+    "target": "ES2021",
+>>>>>>> 774d025 (queary selector)
     "sourceMap": true,
     "outDir": "./dist",
     "baseUrl": "./",
